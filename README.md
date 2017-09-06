@@ -27,3 +27,11 @@
 	babel-preset-es2015
 	babel-runtime
 </pre>
+
+<pre>程序运行工作:
+配置package.json脚本指令
+"scripts": {
+    "dev": "webpack-dev-server --inline --hot"   自动刷新 热加载  如需要自定义端口号加上  --port 8081
+}
+终端下执行npm run dev
+</pre>
