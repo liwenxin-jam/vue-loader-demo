@@ -16,16 +16,20 @@
 	App.vue	-> 变成正常代码		vue-loader@8.5.4
 	npm install vue-loader@8.5.4 --save-dev
 
-	npm install vue-html-loader --save-dev
-	
+	vue相关依赖如下：
 	vue-html-loader、css-loader、vue-style-loader、
 	vue-hot-reload-api@1.3.2  --save-dev
 	
-	babel-loader  
+	babel相关依赖如下：
+	babel-loader 
 	babel-core
 	babel-plugin-transform-runtime
 	babel-preset-es2015
 	babel-runtime
+
+	
+	最核心依赖：  注意--save 和  --save-dev的区别
+	vue@1.0.28 --save
 </pre>
 
 <pre>程序运行工作:
