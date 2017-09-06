@@ -37,5 +37,6 @@
 "scripts": {
     "dev": "webpack-dev-server --inline --hot"   自动刷新 热加载  如需要自定义端口号加上  --port 8081
 }
+项目代码没有上传node_modules依赖包，请终端下先执行脚本 npm install
 终端下执行npm run dev
 </pre>
