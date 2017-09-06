@@ -1,6 +1,6 @@
 # vue-loader-demo
 
-此项目作为vue1.0了解熟悉vue-loader，基于webpack实现，会用到es6语法
+此项目作为vue1.0了解熟悉vue-loader，基于webpack实现，会用到es6语法。 注意依赖包的版本，因为用的是vue1.0，部分依赖也是要用低版本。
 
 <pre>简单的目录结构:
 	|-index.html    首页
