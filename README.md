@@ -1,15 +1,16 @@
 # vue-loader-demo
 
-此项目作为vue1.0了解熟悉vue-loader，基于webpack实现，会用到es6语法。 注意依赖包的版本，因为用的是vue1.0，部分依赖也是要用低版本。
+> 此项目作为vue1.0了解熟悉vue-loader，基于webpack实现，会用到es6语法。 注意依赖包的版本，因为用的是vue1.0，部分依赖也是要用低版本。
 
-<pre>简单的目录结构:
+``` bash
+简单的目录结构:
 	|-index.html    首页
 	|-main.js	入口文件
 	|-App.vue	vue文件，官方推荐命名法
 	|-package.json	工程文件(项目依赖、名称、配置)
 		npm init --yes 默认生成
 	|-webpack.config.js	webpack配置文件
-</pre>
+```
 
 <pre>webpack准备工作
 	格式npm install <package-name>  --save-dev:
